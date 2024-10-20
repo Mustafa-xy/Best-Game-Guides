@@ -1,7 +1,8 @@
 Tips and Tricks for Brawlhalla
 
 Brawlhalla just got released on Android and iOS and it is worth hours and hours of fun. It has dynamic gameplay, epic customization, engaging PVP and it is truly free to play, but it is also pretty confusing for someone just starting off so today we have 137 tips and tricks for you
-
+     \(^_^)/
+     
 — — — — — — — — — — — —
 
 When you first download brawlhalla, you will notice that you are not given the choice to change your name. This is because you are automatically assigned your registered nickname in Google or iOS. If you would like to change your name, simply change your nickname like this and it will automatically update in the game.
